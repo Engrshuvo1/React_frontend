@@ -1,0 +1,30 @@
+.App{
+    text-align: center;
+}
+
+.card{
+    margin: 2px;
+    padding: auto;
+}
+
+
+.Footer{
+    background-color:#D70F64;
+    margin:0px auto;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    min-height: 400px;
+}
+
+.col{
+    text-align: center;
+    -webkit-text-fill-color: white;
+}
+
